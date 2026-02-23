@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nemsama
-- 👀 I’m interested in Video games !
-- 🌱 I’m currently learning How to do science
-- 💞️ I’m looking to collaborate ... (maybe)
-- ⚡ Fun fact: I'm recoding Terraria for 'fun'
+- 👋 Hi, I’m Nils
+- 👀 I’m interested in applications development !
+- ❤️ I like to express my creativity
+- 🌱 I am searching to get more experience
 
 <!---
 Nemsama/Nemsama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
