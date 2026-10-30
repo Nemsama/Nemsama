@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nils
-- 👀 I’m interested in applications development !
+- 👀 I’m interested in game development !
 - ❤️ I like to express my creativity
 - 🌱 I am searching to get more experience
 
